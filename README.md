@@ -17,10 +17,10 @@ I'm a Third Year Computer Engineering Diploma Student passionate about coding, m
 - Python  
 - AI/ML
 - Advanced Java
-
+- Figma 
 
 ### 🏆 Achievements:
-- Certified in AI for India 
+- Certified in AI for India `
 ![Prayag Ai For India Certificate](required_data/prayag_ai_for_india_certificate.png)
 
 -Certified in Web Development
