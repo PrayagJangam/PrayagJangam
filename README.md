@@ -17,6 +17,7 @@ I'm a pursuing B.Tech in Computer Engineering at Pune Institude Of Computer Tech
 - [**Prayag Coming Soon Static Webpage**](https://prayagjangam.github.io/prayagweb-coming-soon/): A static webpage designed by me and now live using GitHub Pages.  
 
 ### 🌱 Currently Learning:
+- DSA
 - Python  
 - AI/ML
 - Advanced Java
