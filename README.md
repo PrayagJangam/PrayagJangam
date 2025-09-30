@@ -43,6 +43,7 @@ I'm a pursuing B.Tech in Computer Engineering at Pune Institude Of Computer Tech
 
 ### 📫 Contact Me
 - **Email:** [prayagjangam2004@gmail.com](mailto:prayagjangam2004@gmail.com)  
+- **LinkedIn:** [https://www.linkedin.com/in/prayagjangam/](https://www.linkedin.com/in/prayagjangam/)  
 - **Instagram:** [instagram.com/capt_prayag](https://www.instagram.com/capt_prayag/)  
 
 
