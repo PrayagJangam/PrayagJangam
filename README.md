@@ -1,7 +1,7 @@
 ![Prayag GitHub Profile Banner](required_data/prayag_github_banner.gif)
 
 # 👋 Hi there!
-I'm a Third Year Computer Engineering Diploma Student passionate about coding, mobile app development, web development and exploring cutting-edge technology.  
+I'm a pursuing B.Tech in Computer Engineering at Pune Institude Of Computer Technology passionate about coding, mobile app development, web development and exploring cutting-edge technology.  
 
 🚀 **Fun Fact:** Your future self will thank you for every line of code you write today!
 
