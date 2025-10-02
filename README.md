@@ -1,7 +1,7 @@
 ![Prayag GitHub Profile Banner](required_data/prayag_github_banner.gif)
 
 # 👋 Hi there!
-I'm a pursuing B.Tech in Computer Engineering at Pune Institude Of Computer Technology(PICT); passionate about coding, mobile app development, web development and exploring cutting-edge technology.  
+I'm a pursuing B.Tech in Computer Engineering at Pune Institude Of Computer Technology(PICT); passionate about coding, mobile app development, web development and exploring cutting-edge technology. In addition to that; I'm a member of PICT Robotics Club -which help me to explore & learn more about Software & Hardware Combination. 
 
 🚀 **Fun Fact:** Your future self will thank you for every line of code you write today!
 
